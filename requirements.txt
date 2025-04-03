@@ -1,4 +1,5 @@
-uproot4==0.0.15
-awkward1==0.2.25
+uproot
+awkward
 numpy
 matplotlib
+jupyter
